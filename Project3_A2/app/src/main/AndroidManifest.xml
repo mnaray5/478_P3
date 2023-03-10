@@ -4,10 +4,10 @@
     <uses-permission android:name="android.permission.QUERY ALL PACKAGES"/>
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
 
-    <!--    <permission android:name="edu.uic.cs478.spring23.mp3"-->
-<!--    android:label="Allowaccesstoactivity2"-->
-<!--    android:description="@string/perm_desc"-->
-<!--    android:protectionLevel="dangerous"/>-->
+    <permission android:name="edu.uic.cs478.spring23.mp3"
+    android:label="Allowaccesstoactivity2"
+    android:description="@string/perm_desc"
+    android:protectionLevel="dangerous"/>
 
     <application
         android:allowBackup="true"
